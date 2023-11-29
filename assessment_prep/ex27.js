@@ -1,6 +1,3 @@
-// Object prototype -> Object.prototype
-// Function prototype -> Function.prototype
-
 let obj = {};
 
 console.log(Object.getPrototypeOf(obj) === Object.prototype); // true
